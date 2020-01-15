@@ -22,11 +22,6 @@ My current research focus is image dehazing.
 * Image restoration
 * Object tracking
 
-## Working Experiences
-
-* July 2017\~Aug. 2017: Software development, Oracle Corporation of Nanjing City, Jiangsu Province.
-* Sep. 2016\~June 2017: Association Lecturer, Students’ Association for Science and Technology, China University of Mining and Technology.
- 
 ## Academic awards & recognitions
 
 * 2018\~2020: Postgraduate studentship by Xiamen University
@@ -35,3 +30,9 @@ My current research focus is image dehazing.
 * Dec. 2017: Second Prize Scholarship on Campus
 * Dec. 2016: First Prize Scholarship on Campus
 * Dec. 2015: First Prize Scholarship on Campus
+
+## Working Experiences
+
+* July 2017\~Aug. 2017: Software development, Oracle Corporation of Nanjing City, Jiangsu Province.
+* Sep. 2016\~June 2017: Association Lecturer, Students’ Association for Science and Technology, China University of Mining and Technology.
+ 
