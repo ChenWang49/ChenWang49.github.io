@@ -10,29 +10,28 @@ redirect_from:
 
 *[^_^]: title: "About [中文](http://runqingchen.rexking6.top/about_cn)"
 
-Hi! I’m Run-Qing Chen. I'm now a Master Student supervised by [Dr. Wan-Lei Zhao](http://pami.xmu.edu.cn/~wlzhao/index.htm) on Computer Science and Technology in Department of Computer Science, School of Informatics, Xiamen University. 
+Hi! I’m Chen Wang. I'm now a Master Student supervised by [Dr. Hanzi Wang](http://pami.xmu.edu.cn/hanzi) on Computer Science and Technology in Department of Computer Science, School of Informatics, Xiamen University. 
 
-I received my Bachelor degree on Information and Computing Science from Nanjing University of Posts and Telecommunications in Jul. 2018 supervised by [Dr. Song-Song Wu](https://www.researchgate.net/profile/Songsong_Wu). During that period, My research focus was Zero-shot Learning.
+I received my Bachelor degree on Information and Computing Science from China University of Mining and Technology in Jul. 2018 supervised by [Dr. Wei Chen](https://www.researchgate.net/scientific-contributions/2123726547_Wei_Chen). During that period, My research focus was object tracking.
 
-My current research focus is anomaly detection on time series, and optimizing clustering approaches such as K-means. Welcome to [my blog](http://blog.rexking6.top/).
+My current research focus is image dehazing. 
 
 ## Research Interests
 
-* Anomaly detection
-* Clustering
-* Weakly supervised segmentation
-* Zero-shot learning
+* Image dehazing
+* Image restoration
+* Object tracking
 
 ## Working Experiences
 
-* Sep. 2019\~Jan. 2020: Teaching assistant, Xiamen University.
-* July 2017\~Aug. 2017: Web crawler intern, OFashion.
-* May 2017\~June 2017: developed a early-warning system based on electricity consumption data analysis for Jiangsu Electric Power Company.
-* Sep. 2015\~June 2016: Association Lecturer, Students’ Association for Science and Technology, Nanjing University of Posts and Telecommunications.
+* July 2017\~Aug. 2017: Software development, Oracle Corporation of Nanjing City, Jiangsu Province.
+* Sep. 2016\~June 2017: Association Lecturer, Students’ Association for Science and Technology, China University of Mining and Technology.
  
 ## Academic awards & recognitions
 
 * 2018\~2020: Postgraduate studentship by Xiamen University
-* Nov. 2017: Innovation Pacemaker by Nanjing University of Posts and Telecommunications
-* May. 2017: Meritorious Winner on Mathematical Contest In Modeling
-* May. 2016: Meritorious Winner on Mathematical Contest In Modeling
+* Aug. 2017: First Prize of Jiangsu Software Cup Competition
+* May. 2017: Third prize in modeling mathematics competition
+* Dec. 2017: Second Prize Scholarship on Campus
+* Dec. 2016: First Prize Scholarship on Campus
+* Dec. 2015: First Prize Scholarship on Campus
