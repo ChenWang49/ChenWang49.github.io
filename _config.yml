@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Run-Qing Chen"
+title                    : "Chen Wang"
 title_separator          : "-"
-name                     : &name "Run-Qing Chen"
+name                     : &name "Chen Wang"
 description              : &description "XMU Post"
-url                      : https://runqingchen.rexking6.top # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://chenwang49.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Run-Qing Chen"
+  name             : "Chen Wang"
   avatar           : "profile.jpg"
   bio              : "A master student"
   location         : "Xiamen"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : 'chenrq1010026261@gmail.com'
-  researchgate     : "https://www.researchgate.net/profile/Runqing_Chen"
+  email            : 'chenwang1@stu.xmu.edu.cn'
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,18 +96,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 'rexking6'
+  github           : 'https://github.com/ChenWang49'
   google_plus      :
   keybase          :
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : '润青-陈-098a8a141'
+  linkedin         : 
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    :
-  steam            : '76561198328411061'
+  steam            : 
   tumblr           :
   twitter          :
   vine             :
